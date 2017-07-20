@@ -1,5 +1,7 @@
 # ConwaysGameOfLife
-This is a python program I wrote while at PyCon 2017. It was the first Python I wrote and I just wanted to familiarize myself with the basic syntax. This is Conway's Game of Life, a very basic simulation of growing, patterned life. You can find more details about Conway's Game of Life here: https://en.wikipedia.org/wiki/Conway's_Game_of_Life
+This is a python program I wrote while at PyCon 2017. It was the first Python I wrote and I just wanted to familiarize myself with the basic syntax. This is Conway's Game of Life, a very basic simulation of growing, patterned life. You can find more details about Conway's Game of Life here: https://en.wikipedia.org/wiki/Conway's_Game_of_Life.
+
+A summary of the graphics.py library can be found here: http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
 
 This is a very basic readme for now. Just explaining how to compile and run, and use the program.
 I will use it as a basic update history
